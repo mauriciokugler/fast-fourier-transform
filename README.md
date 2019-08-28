@@ -1,6 +1,6 @@
 # C++ Fast Fourier Transform
 
-Yet another C++ implementation of the [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) (FFT) algorithm. This C++ class provides simple and efficient methods for 1D, 2D & 3D direct and inverse FFT calculation. 
+Yet another C++ implementation of the [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) (FFT) algorithm. This class provides simple and efficient methods for 1D, 2D & 3D direct and inverse FFT calculation. 
 
 ## Usage
 
