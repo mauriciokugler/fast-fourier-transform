@@ -74,7 +74,7 @@ The [OpenMP](https://en.wikipedia.org/wiki/OpenMP) parallelization is optional, 
 ```TeX
 @MISC{Kugler2019,
   author = "Mauricio Kugler",
-  title = "ANSI C++ Fast Fourier Transform",
+  title = "C++ Fast Fourier Transform",
   year = "2019",
   url = "https://github.com/mauriciokugler/fast-fourier-transform",
   note = "Version 1.0.0"

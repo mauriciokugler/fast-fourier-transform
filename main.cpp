@@ -1,6 +1,7 @@
 //Copyright (c) 2019 Mauricio Kugler, Nagoya Institute of Technology
 
 #include "FastFourierTransform.h"
+#include <stdlib.h>
 #include <omp.h>
 
 int main()
@@ -12,7 +13,7 @@ int main()
 	for(unsigned int i=0;i<n1;i++) {
 		x[i] = new float[n2];
 		for(unsigned int j=0;j<n2;j++) {
-			x[i][j] = ((float)rand()/(RAND_MAX))*2-1;
+			x[i][j] = ((float)rand()/RAND_MAX)*2-1;
 		}
 	}
 
