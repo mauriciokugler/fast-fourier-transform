@@ -34,7 +34,6 @@ float inline ***ifft3(complex<float> ***x)
 
 The destructor method delete all allocated arrays, including the ones which pointers have been returned by the `fft` and `ifft` methods.  
 
-
 ## Example
 
 The `main.cpp` file contains a simple example of the 2D-FFT:
